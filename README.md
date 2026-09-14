@@ -102,7 +102,7 @@ Malayalam's flat, near-majority-class-floor performance across every few-shot an
 
 ## Data sources & licensing
 
-- **HASOC 2019/2020/2021**: released by the organisers of the Hate Speech and Offensive Content Identification shared task series (Mandl et al., 2019, 2020, 2021) for research use. See the [HASOC track pages](https://hasocfire.github.io/hasoc/) for the original terms of use; redistribution here is for academic reproducibility purposes only.
+- **HASOC 2019/2020/2021**: released by the organisers of the Hate Speech and Offensive Content Identification shared task series (Mandl et al., 2019, 2020, 2021) for research use. See the [HASOC track pages]((https://hasocfire.github.io/hasoc/official/index.html)) for the original terms of use; redistribution here is for academic reproducibility purposes only.
 - **DravidianCodeMix**: released by Chakravarthi et al. (2022), *"DravidianCodeMix: Sentiment analysis and offensive language identification dataset for Dravidian languages in code-mixed text,"* *Language Resources and Evaluation*, 56, 765–806. Original release: [github.com/bharathichezhiyan/DravidianCodeMix-Dataset](https://github.com/bharathichezhiyan/DravidianCodeMix-Dataset).
 
 If you reuse either dataset, please cite the original releases above, not this repository.
