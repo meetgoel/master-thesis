@@ -1,4 +1,4 @@
-# Master Thesis — Cross-Lingual Transfer vs. In-Context Learning for Dravidian Offensive Language Detection
+# Master Thesis — Cross-Lingual and Few-Shot Offensive Language Detection in Low-Resource Dravidian Languages: An Empirical Study of XLM-R and Large Language Models
 
 Code and data for the MSc thesis *"Cross-Lingual Transfer versus In-Context Learning for Offensive Language Detection in Low-Resource Dravidian Languages: A Comparative Study of XLM-RoBERTa and Qwen2.5-1.5B-Instruct under Constrained Data Budgets."*
 
@@ -119,9 +119,7 @@ Both are loaded directly from the Hugging Face Hub; no modified weights are redi
 If you use this code, please cite the thesis:
 
 ```
-[Meet Goel]. ([2026]). Cross-Lingual Transfer versus In-Context Learning for Offensive
-Language Detection in Low-Resource Dravidian Languages: A Comparative Study of XLM-RoBERTa
-and Qwen2.5-1.5B-Instruct under Constrained Data Budgets. MSc Thesis, [Gisma University of Applied Sciences].
+[Meet Goel]. ([2026]). Cross-Lingual and Few-Shot Offensive Language Detection in Low-Resource Dravidian Languages: An Empirical Study of XLM-R and Large Language Models. MSc Thesis, [Gisma University of Applied Sciences].
 ```
 
 ## Contact
