@@ -4,10 +4,10 @@ Code and data for the MSc thesis *"Cross-Lingual Transfer versus In-Context Lear
 
 This repository contains the full experimental pipeline used to answer four research questions:
 
-- **RQ1** — How well does an XLM-RoBERTa model fine-tuned on English/German/Hindi (HASOC) transfer zero-shot to Kannada, Tamil, and Malayalam?
-- **RQ2** — How does XLM-R performance change as target-language labelled data grows (50 → 100 → 500 examples)?
-- **RQ3** — How does XLM-R fine-tuning compare to Qwen2.5-1.5B-Instruct in-context learning at matched shot budgets?
-- **RQ4** — How sensitive are few-shot XLM-R results to random seed choice?
+- **RQ1** — How effectively does a multilingual XLM-R model trained on a source-language dataset transfer to Kannada, Tamil, and Malayalam without target-language training data?
+- **RQ2** — How does increasing the amount of labelled target-language data from 50 to 100 and 500 examples affect XLM-R performance relative to zero-shot transfer across Kannada, Tamil, and Malayalam?
+- **RQ3** — Under comparable few-shot data budgets, how does XLM-R fine-tuning compare with Qwen2.5-1.5B in-context learning for offensive-language detection in Kannada, Tamil, and Malayalam?
+- **RQ4** — How sensitive are few-shot XLM-R results to random seed variation, and does the observed data-efficiency trend remain consistent across different seeds?
 
 The full write-up, with every number in this repository's output traced back to a section of the thesis, is in the accompanying dissertation document.
 
