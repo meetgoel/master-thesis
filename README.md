@@ -15,7 +15,7 @@ The full write-up, with every number in this repository's output traced back to 
 
 ```
 master-thesis/
-├── HateSpeech_v10.ipynb        # Full pipeline: data loading -> preprocessing -> all experiments
+├──Pipeline/ HateSpeech_v10.ipynb        # Full pipeline: data loading -> preprocessing -> all experiments
 ├── Datasets/
 │   ├── HASOC 2019/
 │   │   ├── Train Data/HASOC_2019_train.tsv
@@ -30,6 +30,7 @@ master-thesis/
 │       ├── kannada_offensive_full.csv
 │       ├── tamil_offensive_full.tsv
 │       └── malayalam_offensive_full.tsv
+├── Visualizations/ visuals.png           #All visuals used in the thesis
 └── README.md
 ```
 
